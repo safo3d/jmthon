@@ -3,9 +3,8 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[ ! [نشر] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy؟template=https://github.com/JMTHON-safo3d
-## شكـرا لكـم 
-
+[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/JMTHON-safo3d(
+## شكـرا لكـم
 
 ## المطـورين 
 
